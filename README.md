@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Sanjana Shenoy 👋
 
-<!--
-**SanjanaS10/SanjanaS10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile!  
+I'm passionate about harnessing technology and creativity to build visually appealing, impactful solutions.
 
-Here are some ideas to get you started:
+## 👩‍💻 About Me
+- **Aspiring ML Engineer & Web Developer:** I love exploring the intersections of machine learning and web technologies.
+- **Creative Designer:** Dedicated to crafting beautiful digital experiences with a focus on design and visual storytelling.
+- **Artist:** When I'm not coding, you'll find me painting or drawing—art fuels my creativity in tech.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- Machine Learning (ML)
+- Web Development (HTML, CSS, JavaScript)
+- UI/UX Design
+- Creative Problem-Solving
+- Visual Communication
+
+ 
+
+## 🌐 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/sanjana-shenoy-2826bb2b2/)
+
+---
+
+ 
