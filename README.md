@@ -11,16 +11,31 @@ Outside of coding, I’m an artist who loves painting and drawing. My artistic p
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=default" alt="SanjanaS10's GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&layout=compact&theme=default" alt="Top Languages" height="165">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=github_dark"
+    alt="SanjanaS10's GitHub stats"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&layout=compact&theme=github_dark"
+    alt="Top Languages"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SanjanaS10&theme=default" alt="GitHub Streak" height="165">
+  <img
+    src="https://streak-stats.demolab.com?user=SanjanaS10&theme=github-dark"
+    alt="GitHub Streak"
+    height="165"
+  />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SanjanaS10&theme=flat&column=7" alt="GitHub Trophies">
+  <img
+    src="https://github-profile-trophy.vercel.app/?username=SanjanaS10&theme=darkhub&column=7"
+    alt="GitHub Trophies"
+  />
 </p>
 
 
