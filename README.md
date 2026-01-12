@@ -16,4 +16,4 @@ Outside of coding, I’m an artist who loves painting and drawing. My artistic p
 
 ---
 
-Thanks for stopping by! Let’s connect and collaborate. why images arent loaded stats n all
+Thanks for stopping by! Let’s connect and collaborate.  
