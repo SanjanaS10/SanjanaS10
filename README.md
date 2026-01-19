@@ -16,9 +16,7 @@ Outside of coding, I’m an artist who enjoys painting and drawing — creativit
 |------|-----------|
 | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&layout=compact&theme=tokyonight) |
 
-![GitHub Streak](https://streak-stats.demolab.com?user=SanjanaS10&theme=tokyonight)
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=SanjanaS10&theme=tokyo-night)
+ 
 
 ---
 
@@ -28,6 +26,6 @@ Outside of coding, I’m an artist who enjoys painting and drawing — creativit
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=SanjanaS10&color=blue)
+ 
 
 Thanks for stopping by! Let’s learn, build, and collaborate 🌱
