@@ -8,16 +8,7 @@ I’m currently learning through hands-on projects and open-source contributions
 
 Outside of coding, I’m an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design.
 
----
-
-## 📊 GitHub Stats
-
-| Stats | Languages |
-|------|-----------|
-| ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=tokyonight) | ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&layout=compact&theme=tokyonight) |
-
  
-
 ---
 
 ## 🌐 Connect with Me
