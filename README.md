@@ -6,7 +6,7 @@ I’m a Computer Science (AI & ML) student who enjoys working at the intersectio
 
 I’m currently learning through hands-on projects and open-source contributions, and I enjoy improving developer experience, documentation, and user-facing features.
 
-Outside of coding, I’m an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design.
+Outside of coding, I’m an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design:)
 
  
 ---
