@@ -75,18 +75,7 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaS10&theme=tokyonight&hide_border=false" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=tokyonight&hide_border=false&layout=compact" />
-</div>
-
----
+ 
 
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=100&section=footer" />
