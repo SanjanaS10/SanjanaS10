@@ -1,4 +1,8 @@
 <div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0e1a,30,0d3b4f,60,0d7377,80,1a6b5e,100,2a4a3a&height=180&section=header&text=&animation=fadeIn" />
+</div>
+
+<div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;Machine+Learning+%7C+Data+Analytics;Full+Stack+%7C+AI+Developer" alt="Typing SVG" />
 
@@ -94,8 +98,19 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 
 ---
 
- 
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=merko&hide_border=true&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=merko&hide_border=true&layout=compact" height="165" />
+</div>
+
+---
 
 <div align="center">
   Thanks for stopping by! Let's learn, build, and collaborate 🌱
+</div>
+
+<div align="center">
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0,2a4a3a,20,1a6b5e,50,0d7377,70,0d3b4f,100,0a0e1a&height=140&section=footer&animation=fadeIn" />
 </div>
