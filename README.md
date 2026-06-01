@@ -1,8 +1,4 @@
-<div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12,20,27&height=200&section=header&text=Hi,%20I'm%20Sanjana%20Shenoy%20👋&fontSize=40&fontColor=ffffff&fontAlignY=38&desc=CS%20(AI%20%26%20ML)%20Student%20%7C%20Builder%20%7C%20Artist&descAlignY=58&descSize=18" />
-
-</div>
+ 
 
 <br/>
 
