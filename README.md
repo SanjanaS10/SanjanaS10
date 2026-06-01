@@ -1,22 +1,14 @@
 <div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
-  <defs>
-    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a0e1a"/>
-      <stop offset="25%" style="stop-color:#0d3b4f"/>
-      <stop offset="55%" style="stop-color:#0d7377"/>
-      <stop offset="80%" style="stop-color:#1a6b5e"/>
-      <stop offset="100%" style="stop-color:#0a1628"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 C150,100 300,20 450,60 C600,100 750,20 900,50 L900,0 L0,0 Z" fill="url(#tg)"/>
-  <path d="M0,80 C200,40 400,90 600,60 C750,40 850,70 900,60 L900,120 L0,120 Z" fill="#0a0e1a" opacity="0.5"/>
-</svg>
-</div>
 
-<div align="center">
+<img src="https://img.shields.io/badge/dynamic/json?url=https://api.github.com/users/SanjanaS10&label=&query=$.login&color=0a0e1a&style=flat-square" width="0" height="0"/>
+
+<img width="100%" height="6px" src="https://img.shields.io/badge/--%20-0d7377?style=flat-square&labelColor=0d7377&color=0d7377&label="/>
+
+<br/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;Machine+Learning+%7C+Data+Analytics;Full+Stack+%7C+AI+Developer" alt="Typing SVG" />
+
+<img width="100%" height="6px" src="https://img.shields.io/badge/--%20-0d7377?style=flat-square&labelColor=0d7377&color=0d7377&label="/>
 
 </div>
 
@@ -119,22 +111,10 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 
 ---
 
+<img width="100%" height="6px" src="https://img.shields.io/badge/--%20-0d7377?style=flat-square&labelColor=0d7377&color=0d7377&label="/>
+
 <div align="center">
   Thanks for stopping by! Let's learn, build, and collaborate 🌱
 </div>
 
-<div align="center">
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
-  <defs>
-    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
-      <stop offset="0%" style="stop-color:#0a1628"/>
-      <stop offset="30%" style="stop-color:#1a6b5e"/>
-      <stop offset="60%" style="stop-color:#0d7377"/>
-      <stop offset="85%" style="stop-color:#0d3b4f"/>
-      <stop offset="100%" style="stop-color:#0a0e1a"/>
-    </linearGradient>
-  </defs>
-  <path d="M0,60 C150,20 300,100 450,60 C600,20 750,90 900,50 L900,120 L0,120 Z" fill="url(#bg)"/>
-  <path d="M0,40 C200,80 400,30 600,60 C750,80 850,40 900,55 L900,0 L0,0 Z" fill="#0a0e1a" opacity="0.4"/>
-</svg>
-</div>
+<img width="100%" height="6px" src="https://img.shields.io/badge/--%20-0d3b4f?style=flat-square&labelColor=0d3b4f&color=0d3b4f&label="/>
