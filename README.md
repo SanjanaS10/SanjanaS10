@@ -106,35 +106,12 @@ I'm a **Computer Science (AI & ML)** student who enjoys working at the intersect
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true"/>
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=tokyonight&hide_border=true&layout=compact"/>
-
-</div>
-
-<br>
-<div align="center">
-
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjanaS10&theme=tokyonight"/>
-
-</div>
-
-<br>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SanjanaS10&label=Profile%20Views&color=0f6c7a&style=flat-square" />
-</p>
-
-<div align="center">
+  
+ 
 
 <img width="70%" src="https://streak-stats.demolab.com?user=SanjanaS10&theme=tokyonight&hide_border=true"/>
 
-</div>
+ 
 <div align="center">
 
  width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
