@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=venom&color=0,0d0d0d,50,0d7377,100,0d0d0d&height=220&section=header&text=Sanjana%20Shenoy&fontSize=60&fontColor=14ffec&fontAlignY=45&desc=CS%20(AI%20%26%20ML)%20%E2%80%A2%20Developer%20%E2%80%A2%20Artist&descSize=18&descAlignY=65&descFontColor=8efcf7&animation=twinkling" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;CS+(AI+%26+ML)+Student;Developer+%7C+Artist" alt="Typing SVG" />
 
 </div>
 
@@ -95,19 +95,11 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=merko&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaS10&theme=merko&hide_border=true" height="165" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=merko&hide_border=true&layout=compact" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=merko&hide_border=true&layout=compact" height="165" />
 </div>
 
 ---
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0,0d0d0d,100,0d7377&height=100&section=footer&fontColor=14ffec" />
-</div>
-
-<div align="center">
-  <i style="color:#14ffec">Thanks for stopping by! Let's learn, build, and collaborate 🌱</i>
+  <i>Thanks for stopping by! Let's learn, build, and collaborate 🌱</i>
 </div>
