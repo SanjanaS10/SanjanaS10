@@ -126,6 +126,9 @@ I'm a **Computer Science (AI & ML)** student who enjoys working at the intersect
 </div>
 
 <br>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SanjanaS10&label=Profile%20Views&color=0f6c7a&style=flat-square" />
+</p>
 
 <div align="center">
 
