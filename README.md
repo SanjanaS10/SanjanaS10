@@ -1,5 +1,17 @@
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,0a0e1a,30,0d3b4f,60,0d7377,80,1a6b5e,100,2a4a3a&height=180&section=header&text=&animation=fadeIn" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="tg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a0e1a"/>
+      <stop offset="25%" style="stop-color:#0d3b4f"/>
+      <stop offset="55%" style="stop-color:#0d7377"/>
+      <stop offset="80%" style="stop-color:#1a6b5e"/>
+      <stop offset="100%" style="stop-color:#0a1628"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 C150,100 300,20 450,60 C600,100 750,20 900,50 L900,0 L0,0 Z" fill="url(#tg)"/>
+  <path d="M0,80 C200,40 400,90 600,60 C750,40 850,70 900,60 L900,120 L0,120 Z" fill="#0a0e1a" opacity="0.5"/>
+</svg>
 </div>
 
 <div align="center">
@@ -112,5 +124,17 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 </div>
 
 <div align="center">
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0,2a4a3a,20,1a6b5e,50,0d7377,70,0d3b4f,100,0a0e1a&height=140&section=footer&animation=fadeIn" />
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 900 120" width="100%">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" style="stop-color:#0a1628"/>
+      <stop offset="30%" style="stop-color:#1a6b5e"/>
+      <stop offset="60%" style="stop-color:#0d7377"/>
+      <stop offset="85%" style="stop-color:#0d3b4f"/>
+      <stop offset="100%" style="stop-color:#0a0e1a"/>
+    </linearGradient>
+  </defs>
+  <path d="M0,60 C150,20 300,100 450,60 C600,20 750,90 900,50 L900,120 L0,120 Z" fill="url(#bg)"/>
+  <path d="M0,40 C200,80 400,30 600,60 C750,80 850,40 900,55 L900,0 L0,0 Z" fill="#0a0e1a" opacity="0.4"/>
+</svg>
 </div>
