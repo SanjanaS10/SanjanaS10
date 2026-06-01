@@ -104,17 +104,13 @@ I'm a **Computer Science (AI & ML)** student who enjoys working at the intersect
   <img src="https://img.shields.io/badge/pgvector-081c24?style=flat-square&logo=postgresql&logoColor=12b3b6" />
 </p>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
-
-  
  
-
-<img width="70%" src="https://streak-stats.demolab.com?user=SanjanaS10&theme=tokyonight&hide_border=true"/>
+  
 
  
 <div align="center">
 
- width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
+ <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
 
 ###  Thanks for stopping by :)
 
