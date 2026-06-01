@@ -117,17 +117,24 @@ I'm a **Computer Science (AI & ML)** student who enjoys working at the intersect
 </div>
 
 <br>
+<div align="center">
+
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img width="48%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjanaS10&theme=tokyonight"/>
+
+</div>
+
+<br>
 
 <div align="center">
 
- 
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=tokyonight&hide_border=true&show_icons=true"/>
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjanaS10&theme=tokyonight"/>
+<img width="70%" src="https://streak-stats.demolab.com?user=SanjanaS10&theme=tokyonight&hide_border=true"/>
 
 </div>
 <div align="center">
+
+ width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
 
 ###  Thanks for stopping by :)
 
