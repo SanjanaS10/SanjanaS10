@@ -1,10 +1,8 @@
 <div align="center">
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050b14,20:081c24,45:0b4f5f,70:12b3b6,100:050b14&text=Sanjana%20Shenoy&fontColor=ffffff&fontSize=45&fontAlignY=38&desc=Machine%20Learning%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
-
+<img src="https://capsule-render.vercel.app/api?type=waving&height=240&color=0:050b14,20:081c24,45:0b4f5f,70:12b3b6,100:050b14&text=Sanjana%20Shenoy&fontColor=ffffff&fontSize=45&font=Pacifico&fontAlignY=38&desc=Machine%20Learning%20%7C%20AI%20Developer%20%7C%20Full%20Stack%20Developer&descAlignY=58"/>
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=12B3B6&center=true&vCenter=true&width=750&lines=Computer+Science+(AI+%26+ML)+Student;Machine+Learning+Researcher;Full+Stack+Developer;Building+AI-Powered+Applications;Open+Source+Enthusiast" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=12B3B6&center=true&vCenter=true&width=750&lines= Machine+Learning;Full+Stack;AI+Developer;Open+Source+Enthusiast" />
 
 </div>
 
