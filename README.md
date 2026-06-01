@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;Machine Learning|Data Analytics;Full stack|AI Developer" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;Machine+Learning+%7C+Data+Analytics;Full+Stack+%7C+AI+Developer" alt="Typing SVG" />
 
 </div>
 
@@ -18,9 +18,12 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
 <p align="left">
   <a href="https://www.linkedin.com/in/sanjana-shenoy-2826bb2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0d7377?style=flat-square&logo=linkedin&logoColor=white" />
-  </a>
-
+  </a>&nbsp;
+  <a href="https://github.com/SanjanaS10">
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=14ffec" />
+  </a>&nbsp;
+  <a href="mailto:sanjanashenoy2005@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-0d7377?style=flat-square&logo=gmail&logoColor=white" />
   </a>
 </p>
 
@@ -89,8 +92,10 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
   <img src="https://img.shields.io/badge/pgvector-0d4f52?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
+---
+
  
 
 <div align="center">
-   Thanks for stopping by:) Let's learn, build, and collaborate 🌱 
+  Thanks for stopping by! Let's learn, build, and collaborate 🌱
 </div>
