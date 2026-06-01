@@ -13,7 +13,7 @@
 <br>
 
 Welcome to my GitHub profile!
-I'm a **Computer Science (AI & ML)** student who enjoys working at the intersection of **machine learning, web development, and design**. I like building projects that are not only functional, but also clean, intuitive, and visually appealing. I'm currently learning through hands-on projects, research work, and open-source contributions.Outside of coding, I'm an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design.
+I'm a **Computer Science (AI & ML)** student who enjoys working at the intersection of **machine learning, web development, and design**. I like building projects that are not only functional, but also clean, intuitive, and visually appealing. I'm currently learning through hands-on projects, research work, and open-source contributions.Outside of coding, I'm an artist who enjoys painting and drawing - creativity strongly influences how I approach problem-solving and design.
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=rect&height=2&color=gradient&customColorList=0,2,6,12,20"/>
 
