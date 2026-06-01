@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=32&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=30&pause=1000&color=0d7377&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Sanjana+Shenoy+%F0%9F%91%8B;Machine Learning|Data Analytics;Full stack|AI Developer" alt="Typing SVG" />
 
 </div>
 
@@ -9,7 +9,7 @@
 Welcome to my GitHub profile!
 I'm a Computer Science (AI & ML) student who enjoys working at the intersection of **machine learning, web development, and design**. I like building projects that are not only functional, but also clean, intuitive, and visually appealing.
 I'm currently learning through hands-on projects and open-source contributions, and I enjoy improving developer experience, documentation, and user-facing features.
-Outside of coding, I'm an artist who enjoys painting and drawing - creativity strongly influences how I approach problem-solving and design:)
+Outside of coding, I'm an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design:)
 
 ---
 
@@ -19,7 +19,7 @@ Outside of coding, I'm an artist who enjoys painting and drawing - creativity st
   <a href="https://www.linkedin.com/in/sanjana-shenoy-2826bb2b2/">
     <img src="https://img.shields.io/badge/LinkedIn-0d7377?style=flat-square&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/SanjanaS10">
+
     <img src="https://img.shields.io/badge/GitHub-0d0d0d?style=flat-square&logo=github&logoColor=14ffec" />
   </a>
 </p>
@@ -89,8 +89,8 @@ Outside of coding, I'm an artist who enjoys painting and drawing - creativity st
   <img src="https://img.shields.io/badge/pgvector-0d4f52?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
 
----
+ 
 
 <div align="center">
-  <i>Thanks for stopping by! Let's learn, build, and collaborate 🌱</i>
+   Thanks for stopping by:) Let's learn, build, and collaborate 🌱 
 </div>
