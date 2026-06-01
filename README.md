@@ -120,18 +120,16 @@ I'm a **Computer Science (AI & ML)** student who enjoys working at the intersect
 
 <div align="center">
 
-<img width="70%" src="https://github-readme-streak-stats.herokuapp.com/?user=SanjanaS10&theme=tokyonight&hide_border=true"/>
+ 
+
+<img width="49%" src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=tokyonight&hide_border=true&show_icons=true"/>
+
+<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=SanjanaS10&theme=tokyonight"/>
 
 </div>
-
-<br>
-
-<img src="https://capsule-render.vercel.app/api?type=waving&height=140&section=footer&color=0:050b14,20:081c24,45:0b4f5f,70:12b3b6,100:050b14"/>
-
 <div align="center">
 
-### ✨ Thanks for stopping by
+###  Thanks for stopping by :)
 
-Code • Create • Learn • Repeat
 
 </div>
