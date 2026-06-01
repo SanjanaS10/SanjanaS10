@@ -9,7 +9,7 @@
 Welcome to my GitHub profile!
 I'm a Computer Science (AI & ML) student who enjoys working at the intersection of **machine learning, web development, and design**. I like building projects that are not only functional, but also clean, intuitive, and visually appealing.
 I'm currently learning through hands-on projects and open-source contributions, and I enjoy improving developer experience, documentation, and user-facing features.
-Outside of coding, I'm an artist who enjoys painting and drawing — creativity strongly influences how I approach problem-solving and design:)
+Outside of coding, I'm an artist who enjoys painting and drawing - creativity strongly influences how I approach problem-solving and design:)
 
 ---
 
@@ -88,15 +88,6 @@ Outside of coding, I'm an artist who enjoys painting and drawing — creativity 
   <img src="https://img.shields.io/badge/MongoDB-0d7377?style=flat-square&logo=mongodb&logoColor=white" />
   <img src="https://img.shields.io/badge/pgvector-0d4f52?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SanjanaS10&theme=merko&hide_border=true&include_all_commits=true&count_private=true" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=SanjanaS10&theme=merko&hide_border=true&layout=compact" height="165" />
-</div>
 
 ---
 
