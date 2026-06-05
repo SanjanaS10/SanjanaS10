@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=12B3B6&center=true&vCenter=true&width=750&lines=Machine+Learning;Full+Stack+Developer;AI+Developer;Open+Source+Enthusiast"/>
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=26&pause=1000&color=12B3B6&center=true&vCenter=true&width=750&lines=Machine+Learning;Full+Stack+Developer;Open+Source+Enthusiast"/>
 
 </div>
 
